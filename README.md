@@ -5,7 +5,7 @@ Fractal representation
 Key binding are not well sets.
 
 On qwerty :
-	Left part of the keyboard :
+
 	`  - Switch the render mode between CPU to GPU
 	1  - Change the fractal to Mandelbrot
 	2  - Change to Julia
